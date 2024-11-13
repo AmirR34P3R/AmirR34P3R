@@ -7,7 +7,10 @@ FullStack
 *   🌍  I'm based in Iran,Tehran,Rey
 *   🖥️  See my portfolio at [R34P3R.ir](http://R34P3R.ir)
 *   ✉️  You can contact me at [a.dehghan25@yahoo.com](mailto:a.dehghan25@yahoo.com)
-*   🚀  I'm currently working on [OxinGame](http://OxinGame.com)<a href="https://www.x.com/AmirR34P3R" target="_blank" rel="noreferrer"><img
+*   🚀  I'm currently working on [OxinGame](http://OxinGame.com)
+*
+
+<a href="https://www.x.com/AmirR34P3R" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/AmirR34P3R?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.twitch.tv/AmirR34P3R" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitch/status/AmirR34P3R?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
